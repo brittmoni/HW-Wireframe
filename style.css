@@ -5,3 +5,15 @@ body {
     width: '960px';
     font-size: '18px';
 }
+
+header {
+    width: 100%;
+}
+
+#navigation {
+    width: 100%;
+}
+
+li {
+    display: inline;
+}
