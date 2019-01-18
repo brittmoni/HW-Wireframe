@@ -10,6 +10,10 @@ header {
     width: 100%;
 }
 
+header h1 {
+    text-align: center;
+}
+
 li {
     display: inline;
 }
@@ -24,6 +28,13 @@ a:hover {
 
 #navigation {
     width: 100%;
+    background: beige;
+    height: 50px;
+}
+
+#navigation li {
+    margin: 20px;
+    text-decoration: none;
 }
 
 #section1, #aside1 {
