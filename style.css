@@ -50,4 +50,26 @@ a:hover {
     margin: 20px;
     border: 2px solid bisque;
     border-radius: 50px;
+    text-align: center;
+}
+
+article {
+    margin: 20px;
+}
+
+article h2 {
+    margin: 30px;
+    text-align: center;
+}
+
+article p {
+    margin: 30px;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    width: 100%;
+    background: beige;
+    line-height: 50px;
 }
